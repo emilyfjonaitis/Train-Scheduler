@@ -1,0 +1,57 @@
+/*@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}*/
+
+panel {
+    width: 100%;
+}
+
+.jumbotron {
+    background-color: #5cb8a4;
+    /* Find light color of success panel */
+    color: #eeeecc;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.panel-heading {
+    padding-top: 0.25%;
+}
+
+
+element.style {}
+
+.h3,
+h3 {
+    font-size: 24px;
+}
+
+.h1,
+.h2,
+.h3,
+h1,
+h2,
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #5cb8a4;
+}
